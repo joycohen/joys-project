@@ -1,0 +1,19 @@
+  body {
+    background: linear-gradient(to bottom right, rgb(225,0,0), rgb(0,0,255));
+  }
+  p {
+    color: black;
+    font-family: Helvetica;
+    text-decoration: line;
+  }
+  img{
+    height: 300px;
+    width:  400px;
+  }
+  div {
+   width: 100px;
+   height: 100px;
+   background-color: blue;
+  }
+  
+  
